@@ -21,6 +21,14 @@
      "logoURI": "https://uploads-ssl.webflow.com/61a6c529a5abd0663aef34c7/623c7362e1f30f67f6b16404_Comp%201_3.png"
   },
     {
+     "name": "BNB Token",
+     "symbol": "BNB",
+     "address": "0xa6f032f6e6eeb8243a10c3b393d78b5ac5637f27",
+     "chainId": 56,
+     "decimals": 9,
+     "logoURI": "https://bscscan.com/images/svg/brands/bnb.svg?v=1.3"
+  },
+    {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
