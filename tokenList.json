@@ -25,7 +25,7 @@
      "symbol": "BNB",
      "address": "0xa6f032f6e6eeb8243a10c3b393d78b5ac5637f27",
      "chainId": 56,
-     "decimals": 9,
+     "decimals": 18,
      "logoURI": "https://bscscan.com/images/svg/brands/bnb.svg?v=1.3"
   },
     {
