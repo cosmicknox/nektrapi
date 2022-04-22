@@ -23,7 +23,7 @@
     {
      "name": "BNB Token",
      "symbol": "BNB",
-     "address": "0xa6f032f6e6eeb8243a10c3b393d78b5ac5637f27",
+     "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
      "chainId": 56,
      "decimals": 18,
      "logoURI": "https://bscscan.com/images/svg/brands/bnb.svg?v=1.3"
