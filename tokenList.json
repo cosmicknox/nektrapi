@@ -1,15 +1,13 @@
 {
-  "name": "PancakeSwap Extended",
+  "name": "NEKTR DEX ",
   "timestamp": "2022-04-07T03:55:32.681Z",
   "version": {
     "major": 2,
-    "minor": 16,
-    "patch": 84
+    
   },
-  "logoURI": "https://pancakeswap.finance/logo.png",
+  "logoURI": "https://uploads-ssl.webflow.com/61a6c529a5abd0663aef34c7/623c7362e1f30f67f6b16404_Comp%201_3.png",
   "keywords": [
-    "pancakeswap",
-    "extended"
+    "nektr",
   ],
   "tokens": [
      {
