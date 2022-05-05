@@ -1,17 +1,3 @@
-{
-"name": "Quickswap Token List",
-"timestamp": "2022-04-27T10:23:07.825Z",
-"version": {
-"major": 1,
-"minor": 2,
-"patch": 32
-},
-"tags": {},
-"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
-"keywords": [
-"uniswap",
-"default"
-],
 "tokens": [
 {
 "name": "4INT",
@@ -1958,4 +1944,3 @@
 "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
 }
 ]
-}
