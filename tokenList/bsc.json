@@ -1,8 +1,10 @@
 {
-"name": "NEKTR",
+"name": "PancakeSwap Extended",
 "timestamp": "2022-05-05T02:01:59.791Z",
 "version": {
-"major": 1,
+"major": 2,
+"minor": 16,
+"patch": 90
 },
 "logoURI": "https://pancakeswap.finance/logo.png",
 "keywords": [
