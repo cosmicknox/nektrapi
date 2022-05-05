@@ -1,16 +1,3 @@
-{
-"name": "1inch",
-"timestamp": "2022-04-06T22:19:09+00:00",
-"version": {
-"major": 145,
-"minor": 0,
-"patch": 0
-},
-"keywords": [
-"1inch",
-"default",
-"list"
-],
 "tokens": [
 {
 "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
@@ -7908,6 +7895,4 @@
 "decimals": 18,
 "logoURI": "https://tokens.1inch.io/0x4f640f2529ee0cf119a2881485845fa8e61a782a.png"
 }
-],
-"logoURI": "https://1inch.exchange/assets/images/logo.png"
-}
+]
