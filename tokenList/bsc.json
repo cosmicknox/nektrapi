@@ -1,16 +1,3 @@
-{
-"name": "PancakeSwap Extended",
-"timestamp": "2022-05-05T02:01:59.791Z",
-"version": {
-"major": 2,
-"minor": 16,
-"patch": 90
-},
-"logoURI": "https://pancakeswap.finance/logo.png",
-"keywords": [
-"pancakeswap",
-"extended"
-],
 "tokens": [
 {
 "name": "PancakeSwap Token",
@@ -2341,4 +2328,3 @@
 "logoURI": "https://tokens.pancakeswap.finance/images/0x1D229B958D5DDFca92146585a8711aECbE56F095.png"
 }
 ]
-}
